@@ -12,7 +12,7 @@
 * **Tools:** JetBrains Suite (IntelliJ, PhpStorm), NetBeans, VS Code, Git
 
 ### 🔭 Current Focus
-- 🔭 **Project:** Developing a Student Course Management System (Java/Swing/JDBC)
+- 🔭 **Project:** 
 - 🌱 **Learning:** Enhancing my skills in Software Design Patterns and Web Integration
 
 ### 📂 Key Projects
@@ -22,8 +22,8 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ounissa-bouliche-6442b63b8)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nb164441@gmail.com)
 
 ---
 
